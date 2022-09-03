@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Covid19Tracker](https://github.com/srgnbkr/Covid19Tracker)
 
-- 🌱 I’m currently learning **.Net,Angular,Oracle.Typescript**
+- 🌱 I’m currently learning **.Net,Angular,PLSQL.Typescript**
 
 - 📫 How to reach me **cuseg09@gmail.com**
 
