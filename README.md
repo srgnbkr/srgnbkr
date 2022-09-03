@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srgnbkr&label=Profile%20views&color=0e75b6&style=flat" alt="srgnbkr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srgnbkr" alt="srgnbkr" /></a> </p>
+<p>&nbsp;<img align="center" width="430px" src="https://github-readme-stats.vercel.app/api?username=srgnbkr&show_icons=true&theme=radical&locale=en" alt="srgnbkr" /></p>
 
 <p align="left"> <a href="https://twitter.com/sergencu" target="blank"><img src="https://img.shields.io/twitter/follow/sergencu?logo=twitter&style=for-the-badge" alt="sergencu" /></a> </p>
 
@@ -24,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srgnbkr&show_icons=true&theme=radical&locale=en&layout=compact" alt="srgnbkr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srgnbkr&show_icons=true&theme=radical&locale=en" alt="srgnbkr" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srgnbkr&theme=radical" alt="srgnbkr" /></p>
