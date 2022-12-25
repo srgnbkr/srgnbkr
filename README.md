@@ -8,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/sergencu" target="blank"><img src="https://img.shields.io/twitter/follow/sergencu?logo=twitter&style=for-the-badge" alt="sergencu" /></a> </p>
 
-- 🔭 I’m currently working on [Covid19Tracker](https://github.com/srgnbkr/Covid19Tracker)
-
-- 🌱 I’m currently learning **.Net,Angular,PLSQL.Typescript**
-
-- 📫 How to reach me **cuseg09@gmail.com**
+<ul dir="auto">
+<li><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Hi, I’m Sergen</li>
+<li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m interested in .Net and Software.</li>
+<li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning JavaScript,React and Angular and NestJs</li>
+<li><g-emoji class="g-emoji" alias="revolving_hearts" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f49e.png">💞️</g-emoji> I’m looking to collaborate on.</li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me <a href="mailto:cuseg09@gmail.com">denizcil353@gmail.com</a>.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
