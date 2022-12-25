@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sergen Bakir</h1>
+<h1 align="center">Hi 👋, I'm Sergen Bakır</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srgnbkr&label=Profile%20views&color=0e75b6&style=flat" alt="srgnbkr" /> </p>
@@ -13,7 +13,7 @@
 <li><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> I’m interested in .Net and Software.</li>
 <li><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning Typescript,Angular and React</li>
 
-<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me <a href="mailto:cuseg09@gmail.com">cuseg*0@gmail.com</a>.</li>
+<li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> Contact me <a href="mailto:cuseg09@gmail.com">cuseg09@gmail.com</a>.</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
