@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋I'm Sergen <br>🔭 I’m currently working on ASP.NET and Angular<br>🌱 I’m currently learning NextJs,React,Javascript<br>⚡ Fun fact
+ 👋I'm Sergen <br>🔭 I’m currently working on ASP.NET and Angular<br>⚡ Fun fact
 
 ---
 [![](https://visitcount.itsvg.in/api?id=srgnbkr&icon=0&color=0)](https://visitcount.itsvg.in)
