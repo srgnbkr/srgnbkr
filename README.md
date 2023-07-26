@@ -2,7 +2,7 @@
  👋I'm Sergen <br>🔭 I’m currently working on ASP.NET and Angular<br>⚡ Fun fact
 
 ---
-[![](https://visitcount.itsvg.in/api?id=srgnbkr&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=srgnbkr)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergenbakir) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SergenCu) 
