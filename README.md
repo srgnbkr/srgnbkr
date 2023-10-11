@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋Hello there! I'm Sergen Bakır, a Software Developer with 1.5 years of experience specializing in Angular and .NET technologies. I'm passionate about crafting elegant solutions and contributing to meaningful projects.
+ 👋Hello there! I'm Sergen Bakır, a Software Developer with 2 years of experience specializing in Angular and .NET technologies. I'm passionate about crafting elegant solutions and contributing to meaningful projects.
 
 ### Angular 
 With a year of dedicated experience in Angular, I've honed my skills in creating interactive and responsive web applications. I thrive on using components, services, and data binding to build seamless user experiences.
