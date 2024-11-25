@@ -3,8 +3,8 @@
 
 ### 🚀 Expertise  
 - **Frontend Development**: Crafting dynamic, responsive web applications using Angular, Bootstrap, and TailwindCSS.  
-- **Backend Development**: Building efficient APIs and backend systems with .NET Core, NestJS, and SQL databases.  
-- **Database Management**: Proficient in Microsoft SQL Server, PostgreSQL, and Redis for modern application needs.  
+- **Backend Development**: Building efficient APIs and backend systems with .NET Core, and SQL databases.  
+- **Database Management**: Proficient in Microsoft SQL Server,  and Redis for modern application needs.  
 
 ---
 
