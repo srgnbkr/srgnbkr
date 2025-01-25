@@ -1,46 +1,44 @@
 # 💫 About Me  
-👋 Hello! I'm Sergen Bakır, a Software Developer with 3 years of experience specializing in Angular and .NET Core technologies. I’m passionate about creating dynamic, user-friendly applications and building efficient, scalable backend systems.
-With a strong focus on delivering meaningful and impactful solutions, I continuously strive to improve my skills and stay updated with the latest technologies. I enjoy solving complex challenges and contributing to projects that make a difference. 
+Hi 👋 My name is Sergen Bakır
+=============================
 
+Sofware Developer
+-----------------
 
+Hello! I'm Sergen Bakır, a Software Developer with 3 years of experience specializing in Angular and .NET Core technologies. I’m passionate about creating dynamic, user-friendly applications and building efficient, scalable backend systems. With a strong focus on delivering meaningful and impactful solutions, I continuously strive to improve my skills and stay updated with the latest technologies. I enjoy solving complex challenges and contributing to projects that make a difference.
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergenbakir)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SergenCu)  
+* 🌍  I'm based in Aydın
+* ✉️  You can contact me at [cuseg09@gmail.com](mailto:cuseg09@gmail.com)
+* 🧠  I'm learning Angular and .Net core
 
----
-
-## 💻 Tech Stack  
 ### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-### Platforms & Services  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
 
-### Databases  
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)  
+### Socials
 
----
+<p align="left"> <a href="https://www.github.com/srgnbkr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sergenbakir" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/SergenCu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=srgnbkr&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)<br>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=srgnbkr&theme=shades-of-purple&hide_border=false)<br>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=srgnbkr&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+### Badges
 
----
+<b>My GitHub Stats</b>
 
-## 🏆 Achievements  
-![](https://github-profile-trophy.vercel.app/?username=srgnbkr&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+<a href="http://www.github.com/srgnbkr"><img src="https://github-readme-stats.vercel.app/api?username=srgnbkr&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=3382ed&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="srgnbkr's GitHub stats" /></a>
+
+<a href="http://www.github.com/srgnbkr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=srgnbkr&stroke=3382ed&background=1c1917&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+
+<a href="http://www.github.com/srgnbkr"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=srgnbkr&bg_color=1c1917&color=3382ed&line=ffffff&point=3382ed&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/srgnbkr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srgnbkr&langs_count=10&title_color=facc15&text_color=3382ed&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+ 
 
 
 
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
