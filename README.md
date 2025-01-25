@@ -1,8 +1,7 @@
-Hi 👋 My name is Sergen Bakır
+About Me
 =============================
 
-Sofware Developer
------------------
+
 
 Hello! I'm Sergen Bakır, a Software Developer with 3 years of experience specializing in Angular and .NET Core technologies. I’m passionate about creating dynamic, user-friendly applications and building efficient, scalable backend systems. With a strong focus on delivering meaningful and impactful solutions, I continuously strive to improve my skills and stay updated with the latest technologies. I enjoy solving complex challenges and contributing to projects that make a difference.
 
