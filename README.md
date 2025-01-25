@@ -1,12 +1,8 @@
 # 💫 About Me  
-👋 **Hello! I'm Sergen Bakır**, a Software Developer with 2 years of experience specializing in Angular and .NET technologies. I'm passionate about building robust, scalable applications and delivering meaningful solutions.  
+👋 Hello! I'm Sergen Bakır, a Software Developer with 3 years of experience specializing in Angular and .NET Core technologies. I’m passionate about creating dynamic, user-friendly applications and building efficient, scalable backend systems.
+With a strong focus on delivering meaningful and impactful solutions, I continuously strive to improve my skills and stay updated with the latest technologies. I enjoy solving complex challenges and contributing to projects that make a difference. 
 
-### 🚀 Expertise  
-- **Frontend Development**: Crafting dynamic, responsive web applications using Angular, Bootstrap, and TailwindCSS.  
-- **Backend Development**: Building efficient APIs and backend systems with .NET Core, and SQL databases.  
-- **Database Management**: Proficient in Microsoft SQL Server,  and Redis for modern application needs.  
 
----
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergenbakir)  
